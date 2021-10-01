@@ -1,6 +1,1 @@
-# resolusi-mihoyo
-entahlah 
-
-- commit 
-- branch
-- merge
+# Daftar nama karakter Genshin Impact
