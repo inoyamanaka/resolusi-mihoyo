@@ -1,4 +1,4 @@
 # Daftar nama karakter Genshin Impact
 
 
-![Screenshot (4)](https://user-images.githubusercontent.com/71071542/135560635-2dd4d161-3b0d-453c-bf4f-e0ff2389b5b3.png)
+![genshin-impact-ist](https://user-images.githubusercontent.com/71071542/135561855-e169e4ad-1516-4ca1-8b2f-1f80d529e6f5.jpeg)
